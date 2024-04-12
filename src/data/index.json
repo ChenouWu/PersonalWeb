@@ -1,0 +1,47 @@
+
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"/img/Front.png",
+            "title":"Front-End",
+            "description":"Proficient in Html CSS JavaScript. React framework, etc"
+        },
+    {
+            "id":"2",
+            "src":"/img/Backend.png",
+            "title":"Back-End",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, beatae tempore. Atque, numquam accusamus magnam sit ratione dolor. Quis omnis autem commodi unde earum animi vitae ex voluptatum,laudantium repellendus!"
+}
+    ],
+    "portfolio": [
+    {
+            "id":"2",
+            "src":"/img/Backend.png",
+            "title":"Who is on birthday",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, beatae tempore. Atque, numquam accusamus magnam sit ratione dolor. Quis omnis autem commodi unde earum animi vitae ex voluptatum,laudantium repellendus!",
+            "Link": "View In Github"
+    },
+    {
+        "id":"2",
+        "src":"/img/Backend.png",
+        "title":"Who is on birthday",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, beatae tempore. Atque, numquam accusamus magnam sit ratione dolor. Quis omnis autem commodi unde earum animi vitae ex voluptatum,laudantium repellendus!",
+        "Link": "View In Github"
+},
+{
+    "id":"2",
+    "src":"/img/Backend.png",
+    "title":"Who is on birthday",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, beatae tempore. Atque, numquam accusamus magnam sit ratione dolor. Quis omnis autem commodi unde earum animi vitae ex voluptatum,laudantium repellendus!",
+    "Link": "View In Github"
+},
+{
+    "id":"2",
+    "src":"/img/Backend.png",
+    "title":"Who is on birthday",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, beatae tempore. Atque, numquam accusamus magnam sit ratione dolor. Quis omnis autem commodi unde earum animi vitae ex voluptatum,laudantium repellendus!",
+    "Link": "View In Github"
+}
+    ]
+}
